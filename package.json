@@ -1,0 +1,12 @@
+{
+  "name": "doc.github.io",
+  "version": "1.0.0",
+  "description": "ximoqing",
+  "main": "index.js",
+  "repository": "git@github.com:ximoqing/doc.github.io.git",
+  "author": "ximoqing <ximoqing@miyear.club>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.41"
+  }
+}
